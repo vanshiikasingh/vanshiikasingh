@@ -1,17 +1,16 @@
 ### Hi there, I'm Vanshika Singh 👋
 </br>
-#I'm a Student, Developer, and Learner!
+# I'm a Student, Developer, and Learner!
 </br>
-🌱 I’m currently learning ML.
+- 🌱 I’m currently learning ML.
 </br>
-👯 I’m looking to collaborate for projects.
+- 👯 I’m looking to collaborate for projects.
 </br>
-🥅 2021 Goals: Improve my coding skills and learn new skills.
+- 🥅 2021 Goals: Improve my coding skills and learn new skills.
 </br>
 
 ### Connect with me:
 </br>
-
 [<img align="left" alt="vanshika.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vanshika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vanshika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -29,13 +28,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
 
-<br />
+</br>
 
 ### GitHub Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vanshiikasingh&show_icons=true&hide_border=true" />
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshiikasingh&layout=compact)](https://github.com/Souro-23/github-readme-stats)
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vanshiikasingh&show_icons=true&hide_border=true" />
+  </br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshiikasingh&layout=compact)](https://github.com/Souro-23/github-readme-stats)
 
 [website]: https://vanshiikasingh.github.io/
 [twitter]: https://twitter.com/vanshiikasingh/
