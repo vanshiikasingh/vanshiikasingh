@@ -42,6 +42,6 @@
 
 [website]: https://vanshiikasingh.github.io/
 [twitter]: https://twitter.com/vanshiikasingh/
-[instagram]: https://www.instagram.com/vanshiikasingh/
+[instagram]: https://www.instagram.com/vanshiika.singh/
 [linkedin]: https://www.linkedin.com/in/vanshikasingh24/
 
