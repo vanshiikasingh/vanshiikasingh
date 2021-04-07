@@ -1,6 +1,8 @@
 ### Hi there, I'm Vanshika Singh 👋
 </br>
-### I'm a Student, Developer, and Learner!
+I'm a Student, Developer, and Learner!
+</br>
+- 🔭 I’m currently pursuing B.Tech from [IPEC](https://www.ipec.org.in/)
 </br>
 - 🌱 I’m currently learning ML.
 </br>
@@ -21,7 +23,6 @@
 
 ### Languages and Tools:
 </br>
-
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
