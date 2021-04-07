@@ -2,7 +2,7 @@
 </br>
 I'm a Student, Developer, and Learner!
 </br>
-- 🔭 I’m currently pursuing B.Tech from [IPEC]
+- 🔭 I’m currently pursuing B.Tech from [IPEC] [https://www.ipec.org.in/]
 </br>
 - 🌱 I’m currently learning ML.
 </br>
@@ -11,7 +11,7 @@ I'm a Student, Developer, and Learner!
 - 🥅 2021 Goals: Improve my coding skills and learn new skills.
 </br>
 
-### Connect with me:
+**Connect with me:**
 </br>
 
 [<img align="left" alt="vanshika.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -21,7 +21,7 @@ I'm a Student, Developer, and Learner!
 
 </br>
 
-### Languages and Tools:
+**Languages and Tools:**
 </br>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
