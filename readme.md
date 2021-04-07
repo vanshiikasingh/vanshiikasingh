@@ -1,6 +1,6 @@
 ### Hi there, I'm Vanshika Singh 👋
 </br>
-## I'm a Student, Developer, and Learner!
+### I'm a Student, Developer, and Learner!
 </br>
 - 🌱 I’m currently learning ML.
 </br>
