@@ -2,9 +2,10 @@
 <br>
 I'm a Student, Developer, and Learner!
 <br>
-- 🔭 I’m currently pursuing B.Tech from [IPEC](https://ipec.org.in/)
 - 🌱 I’m currently learning ML.
+<br>
 - 👯 I’m looking to collaborate for projects.
+<br>
 - 🥅 2021 Goals: Improve my coding skills and learn new skills.
 <br><br>
 
