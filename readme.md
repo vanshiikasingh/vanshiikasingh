@@ -2,7 +2,7 @@
 </br>
 I'm a Student, Developer, and Learner!
 </br>
-- 🔭 I’m currently pursuing B.Tech from [IPEC] (https://www.ipec.org.in/)
+- 🔭 I’m currently pursuing B.Tech from [IPEC]
 </br>
 - 🌱 I’m currently learning ML.
 </br>
@@ -41,6 +41,7 @@ I'm a Student, Developer, and Learner!
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshiikasingh&layout=compact)](https://github.com/Souro-23/github-readme-stats)
 
+[IPEC]: https://www.ipec.org.in/
 [website]: https://vanshiikasingh.github.io/
 [twitter]: https://twitter.com/vanshiikasingh/
 [instagram]: https://www.instagram.com/vanshiika.singh/
