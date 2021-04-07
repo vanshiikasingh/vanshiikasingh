@@ -2,7 +2,7 @@
 </br>
 I'm a Student, Developer, and Learner!
 </br>
-- 🔭 I’m currently pursuing B.Tech from [IPEC](https://www.ipec.org.in/)
+- 🔭 I’m currently pursuing B.Tech from [IPEC] (https://www.ipec.org.in/)
 </br>
 - 🌱 I’m currently learning ML.
 </br>
