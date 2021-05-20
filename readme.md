@@ -2,7 +2,7 @@
 <br>
 I'm a Student, Developer, and Learner!
 <br>
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning Javascript.
 <br>
 - 👯 I’m looking to collaborate for projects.
 <br>
