@@ -6,7 +6,7 @@ I'm a Student, Developer, and Learner!
 <br>
 - 👯 I’m looking to collaborate for projects.
 <br>
-- 🥅 2021 Goals: Improve my coding skills and learn new skills.
+- 🥅 2022 Goals: Improve my coding skills and learn new skills.
 <br><br>
 
 **Connect with me:**
