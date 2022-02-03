@@ -34,8 +34,6 @@ I'm a Student, Developer, and Learner!
 
 **GitHub Stats**
 <br><br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vanshiikasingh&show_icons=true&hide_border=true" />
-  <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshiikasingh&layout=compact)](https://github.com/Souro-23/github-readme-stats)
 
